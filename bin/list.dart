@@ -6,7 +6,6 @@ void main(List<String> args) {
   List<int> iniList = [];
 
   // #2 List
-
   var sembarangList = [1, 'ayam', 3.33, false];
 
   print(iniList.runtimeType);
